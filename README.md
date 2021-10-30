@@ -34,6 +34,24 @@ I'm from the Nigeria and I make content through Web Development and Design. I en
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
   
 </p>
+
+
+## Skills and Experiance
+
+- 🤩  SVELTE
+- 📲  ANDROID
+- 💻  HTML | CSS | JS
+- 💎  PYTHON | FLASK
+- 🔍  SQL | FIRBASE 
+
+## Interest and Contact
+
+- 🔭 I’m currently a Freelancer. 
+- 🌱 I’m currently learning Tailwind 
+- 👯 I’m looking to collaborate on Any open sourced project or paid opportunity 
+- 📫 How to reach me: idifavour7@gmail.com 
+- ☎️ 09037006187
+- 😄 Pronouns: He / Him / His 
 <!-- **IdiFavour/IdiFavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
