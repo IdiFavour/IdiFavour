@@ -1,9 +1,9 @@
 <h1 align='center'>
- Hi there, My name is Drew Robbins 👋
+ Hi there, My name is Idi Favour Aghogho 👋
  </h1>
  
  <h4 align='center'>
- Full Stack Developer || Software Engineer 
+ Front-end Developer || Software Engineer 
  </h4>
 
 <!-- **IdiFavour/IdiFavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
