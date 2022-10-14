@@ -38,8 +38,7 @@ I'm from the Nigeria and I make content through Web Development and Design. I en
 
 ## Skills and Experiance
 
-- 🤩  SVELTE
-- 📲  ANDROID
+- 🤩  SVELTE, VUE, REACT
 - 💻  HTML | CSS | JS
 - 💎  PYTHON | FLASK
 - 🔍  SQL | FIRBASE 
