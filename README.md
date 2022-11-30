@@ -38,17 +38,17 @@ I'm from the Nigeria and I make content through Web Development and Design. I en
 
 ## Skills and Experiance
 
-- 🤩  SVELTE, VUE, REACT
-- 💻  HTML | CSS | JS
+- 🤩  REACT, VUE 
+- 💻  HTML | CSS | JS | TYPESCRIPT
 - 💎  PYTHON | FLASK
-- 🔍  SQL | FIRBASE 
+- 🔍  SQL | FIRBASE | MONGODB
 
 ## Interest and Contact
 
-- 🔭 I’m currently a Freelancer. 
-- 🌱 I’m currently learning Tailwind 
+
+- 🌱 I’m currently learning Apex 
 - 👯 I’m looking to collaborate on Any open sourced project or paid opportunity 
-- 📫 How to reach me: idifavour7@gmail.com 
+- 📫 How to reach me: idifavour@gmail.com 
 - ☎️ 09037006187
 <!-- **IdiFavour/IdiFavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
