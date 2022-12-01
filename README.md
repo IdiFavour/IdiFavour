@@ -8,7 +8,7 @@
  
  
  <p align='center'>
-I'm from the Nigeria and I make content through Web Development and Design. I enjoy learning new languages and frameworks like Svelte and Tailwind. My other programming passions are design, creating vivid websites and solving bugs.
+Software Developer with expertise with multiple technologies and broad-based experience solving several business problems though innovative solutions. With domain expertise ranging from ecommerce, social media to real estate, I am adept at end-to-end implementation of projects from Analysis, Design, Model to Coding & Testing as well as promote to production, especially JavaScript client-side front programming.
 </p>
 
 <p align='center'>
