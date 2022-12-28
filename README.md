@@ -51,13 +51,7 @@ Software Developer with expertise with multiple technologies and broad-based exp
 - ☎️ 09037006187
 
 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IdiFavour&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="IdiFavour" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IdiFavour&show_icons=true&theme=radical&hide_border=true&locale=en" alt="IdiFavour" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IdiFavour&" alt="IdiFavour" /></p>
 <!-- **IdiFavour/IdiFavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
