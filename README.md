@@ -40,7 +40,7 @@ Software Developer with expertise with multiple technologies and broad-based exp
 - 🤩  REACT, VUE 
 - 💻  HTML | CSS | JS | TYPESCRIPT
 - 💎  PYTHON | FLASK
-- 🔍  SQL | FIRBASE | MONGODB
+- 🔍  SQL | TYPEORM | MONGODB
 
 ## Interest and Contact
 
