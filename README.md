@@ -47,8 +47,8 @@ Software Developer with expertise with multiple technologies and broad-based exp
 ## Interest and Contact
 
 
-- 🌱 I’m currently learning Apex 
-- 👯 I’m looking to collaborate on Any open sourced project or paid opportunity 
+<!-- - 🌱 I’m currently learning Apex  -->
+<!-- - 👯 I’m looking to collaborate on Any open sourced project or paid opportunity  -->
 - 📫 How to reach me: idifavour@gmail.com 
 - ☎️ 09037006187
 
