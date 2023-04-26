@@ -44,7 +44,7 @@ Software Developer with expertise with multiple technologies and broad-based exp
 - 💎  PYTHON | FLASK
 - 🔍  SQL | TYPEORM | MONGODB
 
-## Interest and Contact
+## Contact
 
 
 <!-- - 🌱 I’m currently learning Apex  -->
