@@ -1,9 +1,9 @@
 <h1 align='center'>
- Hi there, My name is Idi Favour Aghogho 👋
+ Hi there, My name is Favour Idi 👋
  </h1>
  
  <h4 align='center'>
- Front-end Developer 
+ Software Developer 
  </h4>
  
  
