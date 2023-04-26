@@ -45,10 +45,10 @@ Software Developer with expertise with multiple technologies and broad-based exp
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IdiFavour&label=Profile%20views&color=0e75b6&style=flat" alt="IdiFavour" /> </p>
 ## Skills and Experiance
 
-- 🤩  REACT, VUE 
-- 💻  HTML | CSS | JS | TYPESCRIPT
+- 🤩  REACT, NEXTJS 
+- 💻  HTML | CSS | JS | TYPESCRIPT | TYPEORM
 - 💎  PYTHON | FLASK
-- 🔍  SQL | TYPEORM | MONGODB
+- 🔍  SQL | MONGODB | MINIO | REDIS
 
 ## Contact
 
