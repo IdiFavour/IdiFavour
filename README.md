@@ -46,14 +46,12 @@ Software Developer with expertise with multiple technologies and broad-based exp
 ## Skills and Experiance
 
 - 🤩  REACT, NEXTJS 
-- 💻  HTML | CSS | JS | TYPESCRIPT | TYPEORM
-- 💎  PYTHON | FLASK
-- 🔍  SQL | MONGODB | MINIO | REDIS
+- 💻  JS | TYPESCRIPT | TYPEORM | REACT NATIVE
+- 🔍  SQL | MONGODB | POSTGRESQL | REDIS
 
 ## Contact
 
 
-<!-- - 🌱 I’m currently learning Apex  -->
 <!-- - 👯 I’m looking to collaborate on Any open sourced project or paid opportunity  -->
 - 📫 How to reach me: idifavour@gmail.com 
 - ☎️ 09037006187
